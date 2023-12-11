@@ -1,0 +1,9 @@
+*{
+    padding: auto;
+    margin: 0;
+    box-sizing: border-box;
+    font: optional;
+}
+h1{
+    text-align: center;
+}
